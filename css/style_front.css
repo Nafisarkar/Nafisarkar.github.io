@@ -44,7 +44,7 @@
     /* uncomment if using windows */
     /* background-image: url("/SoftwareProject3/Project1/Images/background.jpg"); */
     /* uncomment if using linux */
-    background-image: url("/Project1/Images/background.jpg");
+    background-image: url("/Images/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
